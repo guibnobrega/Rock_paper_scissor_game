@@ -27,7 +27,7 @@ The code is organized into three main files:
 
 1. **Clone the repository:**
    ```bash
-   git clone <REPO-URL>
+   git clone https://github.com/guibnobrega/Rock_paper_scissor_game.git
    cd Rock_paper_scissor_game
 (Optional) Create and activate a virtual environment:
 
