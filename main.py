@@ -43,10 +43,10 @@ def game():
 
         clear_console()
         if status == "n":
-            print(f"Final Score - You: {user_score}, Computer: {computer_score}")
+            print(f"Final Score - You: {user_score}     Computer: {computer_score}")
             break
         else: 
-            print(f"Current Score - You: {user_score}, Computer: {computer_score}")
+            print(f"Current Score - You: {user_score}   Computer: {computer_score}")
 
 
 clear_console()
