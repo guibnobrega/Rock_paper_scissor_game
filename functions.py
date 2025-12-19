@@ -9,9 +9,10 @@ def right_answer_string_options(user_question, list_of_options):
     """Prompts the user for a choice until a valid option is entered."""
 
     while True:
-        user_choice = input(user_question).lower()
+        user_choice = input(user_question).lower().strip()
 
-        if user_choice[0] in list_of_options:
+        # O "if user_choice" verifica se tem algo escrito antes de checar o [0]
+        if user_choice and user_choice[0] in list_of_options:
             return user_choice[0]
         else:
             print("This option is not available. Please enter a suitable one.")
