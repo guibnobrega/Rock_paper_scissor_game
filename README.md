@@ -29,37 +29,41 @@ The code is organized into three main files:
    ```bash
    git clone https://github.com/guibnobrega/Rock_paper_scissor_game.git
    cd Rock_paper_scissor_game
-(Optional) Create and activate a virtual environment:
+   ```
+2. **(Optional) Create and activate a virtual environment:**
 
-Windows:
+**Windows:**
 
-Bash
+```bash
 
 python -m venv .venv
 .venv\Scripts\activate
-macOS / Linux:
+```
+**macOS / Linux:**
 
-Bash
+```bash
 
 python3 -m venv .venv
 source .venv/bin/activate
-🎮 How to Play
-Run the main script from your terminal:
+```
+## 🎮 How to Play
+1. Run the main script from your terminal:
 
-Bash
+```bash
 
 python main.py
-Follow the on-screen prompts to choose your move.
+```
+2. Follow the on-screen prompts to choose your move.
 
-See if you can beat the computer!
+3. See if you can beat the computer!
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! If you want to improve the game logic or add new features:
 
-Open an Issue to discuss changes.
+1. Open an **Issue** to discuss changes.
 
-Submit a Pull Request.
+2. Submit a **Pull Request.**
 
-📝 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## 📝 License
+This project is licensed under the **MIT License** - see the LICENSE file for details.
 
