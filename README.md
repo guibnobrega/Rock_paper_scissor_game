@@ -1,4 +1,4 @@
-✊✋✌️ Rock Paper Scissors Game
+# ✊✋✌️ Rock Paper Scissors Game
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -32,14 +32,14 @@ The code is organized into three main files:
    ```
 2. **(Optional) Create and activate a virtual environment:**
 
-**Windows:**
+**- Windows:**
 
 ```bash
 
 python -m venv .venv
 .venv\Scripts\activate
 ```
-**macOS / Linux:**
+**- macOS / Linux:**
 
 ```bash
 
@@ -47,22 +47,22 @@ python3 -m venv .venv
 source .venv/bin/activate
 ```
 ## 🎮 How to Play
-1. Run the main script from your terminal:
+1.  Run the main script from your terminal:
 
 ```bash
 
 python main.py
 ```
-2. Follow the on-screen prompts to choose your move.
+2.  Follow the on-screen prompts to choose your move.
 
-3. See if you can beat the computer!
+3.  See if you can beat the computer!
 
 ## 🤝 Contributing
 Contributions are welcome! If you want to improve the game logic or add new features:
 
-1. Open an **Issue** to discuss changes.
+1.  Open an **Issue** to discuss changes.
 
-2. Submit a **Pull Request.**
+2.  Submit a **Pull Request.**
 
 ## 📝 License
 This project is licensed under the **MIT License** - see the LICENSE file for details.
